@@ -1,0 +1,668 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: #0C0E0F;
+    background: -webkit-linear-gradient(right, #44484A, #0C0E0F);
+    background: -moz-linear-gradient(right, #44484A, #0C0E0F);
+    background: linear-gradient(to left, #44484A, #0C0E0F);
+    color: white;
+    font-family: 'League Spartan', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('./leaguespartan-bold.woff');
+}
+
+header {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: #3F52B5;
+    background: -webkit-linear-gradient(right, #3F52B5, #2196F3);
+    background: -moz-linear-gradient(right, #3F52B5, #2196F3);
+    background: linear-gradient(to left, #3F52B5, #2196F3);
+    color: white;
+}
+
+header ul, #social ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+img {
+    width: 50vmax;
+    height: auto;
+}
+
+#portfoliopic {
+    margin-top: 4vmax;
+    border-radius: 50%;
+    width: 20vmax;
+    height: auto;
+}
+
+i {
+    font-size: 1.55vmax;
+}
+
+h1 {
+    font-size: 2vmax;
+}
+
+h2 {
+    font-size: 1.7vmax;
+}
+
+p {
+    font-size: 1.3vmax;
+}
+
+section {
+    margin: 0;
+    padding: 2.5%;
+}
+
+#Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#Home i {
+    text-align: center;
+    font-size: 2vmax;
+    padding-right: 2vmax;
+}
+
+#info {
+    margin-top: -3vmax;
+}
+
+#social {
+    margin-top: -2.5vmax;
+}
+
+#certificate-images  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#certificate-images img {
+    margin-bottom: 10%;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin-bottom: 2%;
+    width: 45vmax;
+    height: 25vmax;
+    background: #5870B3;
+    background: -webkit-linear-gradient(top left, #5870B3, #654AD8);
+    background: -moz-linear-gradient(top left, #5870B3, #654AD8);
+    background: linear-gradient(top left, #5870B3, #654AD8);
+    text-align: center;
+    padding: 2%;
+}
+
+.project p {
+    text-align: justify;
+}
+
+.allprojects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fa-twitter {
+    color: #00acee;
+}
+
+.fa-linkedin {
+    color: #0072b1;
+}
+
+.fa-bitbucket {
+    color: #2684ff;
+}
+
+.fa-gitlab {
+    color: #fca326;
+}
+
+.fa-free-code-camp {
+    color: #006400;
+}
+
+.fa-stack-overflow {
+    color: #f48024;
+}
+
+.fa-aws {
+   color: #ff9900;
+}
+
+.fa-chrome {
+    color: #f4b80c;
+}
+
+.fa-firefox {
+    color: #0165e4;
+}
+
+.fa-node-js {
+    color: #83cd29;
+}
+
+.fa-code-branch {
+    color:#f05033;
+}
+
+.fa-freebsd {
+    color: #b5010f;
+}
+
+.fa-react {
+    color: #61dafb;
+}
+
+.fa-vuejs {
+    color: #68b281;
+}
+
+.fa-gamepad {
+    color: #458dc1;
+}
+
+.fa-python {
+    color: #3d79aa;
+}
+
+.fa-android {
+    color: #aac148;
+}
+
+.fa-apple {
+    color: #1b1b1b;
+}
+
+.fa-angular {
+    color: #c50030;
+}
+
+#down {
+    text-align: center;
+}
+
+.skillset, #Skills h2 {
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+.skill {
+    display: inline-block;
+    background-color: #f4f3ee;
+    color: #353535;
+    border-radius: 2.5%;
+    padding: 0.5%;
+    padding-top: 1%;
+    white-space: nowrap; 
+    user-select: none;
+}
+
+.html5 {
+    background-color: #e54c21;
+    color: white;
+}
+
+.css3 {
+    background-color: #3060a2;
+    color: white;
+}
+
+#sass {
+    color: #ce679a;
+}
+
+.javascript {
+    background-color: #f0db4f;
+    color: #323330;
+}
+
+#nodejs {
+    color: #404137;
+}
+
+#expressjs {
+    background-color: #fdfdfd;
+    color: #353535;
+}
+
+#mongodb {
+    background-color: #81c564;
+    color: #462e22;
+}
+
+#DB {
+    color: #896a45;
+}
+
+.npm {
+    background-color: #cc0000;
+    color: white;
+}
+
+#yarn {
+    color: #2c8ebb;
+}
+
+#bower {
+    color: #f05834;
+}
+
+#bootstrap {
+    background-color: #6e43a3;
+    color: #ffffff;
+    border: 0.2vmax solid #b29fca;
+}
+
+#materialize {
+    color: #eb7077;
+    border: 0.2vmax solid #f6a2ad;
+}
+
+#fontawesome {
+    background-color: #228ae6;
+    color: white;
+}
+
+#jwt {
+    background-color: #323330;
+    color: white;
+}
+
+#nginx {
+    color: #0d974d;
+}
+
+#nginx i {
+    color: #353535;
+}
+
+#linux {
+    color: #ffcf01;
+}
+
+#linux i {
+    color: #212529;
+}
+
+#centos {
+    color: #212077;
+}
+
+#ubuntu {
+    background-color: #e95420;
+    color: white;
+}
+
+#fedora {
+    background-color: #212077;
+    color: white;
+}
+
+#manjaro {
+    background-color: #32c15b;
+    color: white;
+}
+
+.bash {
+    background-color: #293239;
+    color: #fefefe;
+}
+
+#underscore {
+    color: #4da625;
+}
+
+#vim {
+    background-color: #019833;
+    color: #cccccc;
+}
+
+#http {
+    color: #e53b3b;
+}
+
+.https {
+    color: #028505;
+}
+
+.git {
+    color: #f05033;
+}
+
+#github {
+    background-color: #f7f7f7;
+    color: #323131;
+}
+
+#bitbucket {
+    color: #253858;
+}
+
+#gitlab {
+    color: #8c929d;
+}
+
+#digitalocean {
+    color: #0081ff;
+}
+
+#socketio {
+    color: #010101;
+}
+
+#ngrok {
+    color: #dd4814;
+}
+
+#nodemon {
+    background-color: #76d04b;
+    color: #4f4d3f;
+}
+
+#pm2 {
+    background-color: #161616;
+    color: white;
+}
+
+#pm2 i {
+    color: #45d1f4;
+}
+
+#electronjs {
+    background-color: #2f3241;
+    color: #74b1be;
+}
+
+#ajax {
+    color:#67abdc;
+}
+
+#mysql {
+    background-color: #f7f7f7;
+    color: #005e86;
+}
+
+#SQL {
+    color: #dd8a00;
+}
+
+#mariadb {
+    color: #002b64;
+}
+
+.react {
+    background-color: #222222;
+    color: #61dafb;
+}
+
+#webpack {
+    background-color: #1c78c0;
+    border: solid 0.2vmax #8ed6fb;
+    color: #1a1c1c;
+}
+
+#graphql {
+    background-color: #161e26;
+    color: #e30098;
+}
+
+#docker {
+    color: #394d54;
+}
+
+#docker i {
+    color: #24b8eb;
+}
+
+#passportjs {
+    background-color: black;
+    color: white;
+}
+
+#archlinux {
+    color: #1793d1;
+}
+
+#arch, #arch i {
+    color: #4d4d4d;
+}
+
+#postcss {
+    background-color: #f4f3ee;
+    color: #3c3232;
+}
+
+#postcss i {
+    color: #dc3a09;
+}
+
+.vuejs {
+    color: #394a5e;
+}
+
+#jestjs {
+    background-color: #99425b;
+    color: white;
+}
+
+#mochajs {
+    background-color: #8b6245;
+    color: white;
+}
+
+#flowjs {
+    background-color: #2d343a;
+    color: white;
+}
+
+#cpp {
+    background-color: #00589d;
+    color: white;
+}
+
+#c {
+    background-color: #a8b9cc;
+    color: #1b75b3;
+}
+
+#WA {
+    background-color: #654ef1;
+    color: white;
+}
+
+#godot {
+    color: #3f3e40;
+}
+
+#postgre span {
+    color: #336292;
+}
+
+#ansible {
+    background-color: #1a1918;
+    color: white;
+}
+
+#webgl {
+    color: #971319;
+}
+
+#relay {
+    color: #f26b00;
+}
+
+#googlemaps i {
+    color: #dc4a3e;
+}
+
+#gulpjs i {
+    color: #db4446; 
+}
+
+#gruntjs {
+    color: #463014;
+}
+
+#gruntjs i {
+    color: #fba919;
+}
+
+#v8 {
+    background-color: #525252;
+    color: #4c8cf5;
+}
+
+#less {
+    background-color: #244979;
+    color: white;
+}
+
+#python {
+    color: #646464;
+}
+
+#redis {
+    color: #606163;
+}
+
+#redis i {
+    color: #d12b1f;
+}
+
+#educationsection h3 {
+    margin-left: 2vmax;
+}
+
+#educationinfo li {
+   margin: 1%;
+}
+
+@media ( max-width: 800px ) {
+
+    body {
+        max-width: 100vw;
+    }
+   
+    
+    h1 {
+        font-size: 4vmax;
+    }
+    
+    h2 {
+        font-size: 3vmax;
+    }
+    
+    p {
+        font-size: 2vmax;
+    }
+
+    i {
+        font-size: 3vmax;
+    }
+
+
+    header ul {
+       margin-top: 0.5vmax;
+       margin-bottom: 0.5vmax;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+    }
+
+    header {
+        padding-top: 1.5%;
+        padding-bottom: 1.5%;
+    }
+
+    .project {
+        width: 80vw;
+        height: auto;
+        padding: 2%;
+    }
+
+    .skill {
+        padding: 2%;
+    }
+
+    .skill i {
+        font-size: 3vmax;
+    }
+
+    #certificate-images img {
+        width: 40vmax;
+        height: auto;
+    }
+
+    header ul, #social ul {
+        margin-left: -4vmax;
+    }
+
+    #social i {
+        font-size: 4vmax;
+    }
+
+    #certificate-images img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #portfoliopic {
+        margin-top: 20vmax;
+        margin-bottom: 5vmax;
+    }
+
+    #info h1 {
+        margin-bottom: 5vmax;
+    }
+
+    #info h2 {
+        margin-bottom: 1vmax;
+    }
+
+    #social {
+        margin-top: 1vmax;
+        margin-bottom: 5vmax;
+    }
+
+    #portfoliopic {
+        width: 30vmax;
+    }
+}
