@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.0"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 80 32"
+   xml:space="preserve"
+   sodipodi:docname="upcloud.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   width="80"
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="0.623056"
+   inkscape:cx="601.06956"
+   inkscape:cy="366.74071"
+   inkscape:window-width="1392"
+   inkscape:window-height="950"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#7B00FF;}
+	.st1{fill:none;}
+</style>
+
+<g
+   id="logo-cables"
+   transform="matrix(0.35071065,0,0,0.35164835,-38.5431,-82.778022)">
+	<path
+   id="Shape-2"
+   class="st0"
+   d="M 320.5,290.4 H 209.3 v 8.4 h 111.3 c 5.3,-0.2 9.7,4 9.9,9.3 0.2,5.3 -4,9.7 -9.3,9.9 -0.2,0 -0.4,0 -0.6,0 H 200.9 v -38.3 h -8.4 v 46.7 h 128 c 9.9,-0.2 17.8,-8.5 17.5,-18.4 -0.2,-9.7 -7.9,-17.4 -17.5,-17.6 z" />
+	<path
+   id="Shape-3"
+   class="st0"
+   d="m 118.4,280.8 c 0,-5.3 4.3,-9.5 9.5,-9.5 0,0 0,0 0.1,0 h 110 c 9.9,-0.2 17.8,-8.5 17.5,-18.4 -0.2,-9.6 -7.9,-17.3 -17.5,-17.5 h -45.4 v 19.2 h 8.4 v -10.8 h 37 c 5.3,0.2 9.4,4.6 9.3,9.9 -0.2,5 -4.2,9.1 -9.3,9.3 H 127.9 c -9.9,0 -18,8.1 -18,18 0,9.9 8.1,18 18,18 h 56.2 v -8.4 h -56.2 c -5.3,-0.2 -9.6,-4.5 -9.5,-9.8 z" />
+</g>
+
+</svg>

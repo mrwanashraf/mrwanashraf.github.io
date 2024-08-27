@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 10.24 10.24"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg1"
+   sodipodi:docname="esbuild.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.96875"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1392"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g1"
+     transform="scale(0.04)">
+    <circle
+       fill="#ffcf00"
+       cx="128"
+       cy="128"
+       r="128"
+       id="circle1" />
+    <path
+       d="M 69.285281,58.714719 138.57056,128 69.285281,197.28528 52.314719,180.31472 104.629,128 52.314719,75.685281 Z m 76.799999,0 L 215.37056,128 146.08528,197.28528 129.11472,180.31472 181.429,128 129.11472,75.685281 Z"
+       fill="#191919"
+       id="path1" />
+  </g>
+</svg>

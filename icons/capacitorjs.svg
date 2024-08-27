@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="32"
+   height="31.999998"
+   viewBox="0 0 10.24 10.239999"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg6"
+   sodipodi:docname="capacitorjs.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.96875"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1392"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g6"
+     transform="scale(0.04,0.03999933)">
+    <polygon
+       fill="#53b9ff"
+       points="39.428267,256.00427 100.85803,194.49707 161.9552,255.5648 201.5072,215.96267 39.862613,54.11456 0.31059413,93.71648 61.30624,154.89493 0,216.38507 "
+       id="polygon1" />
+    <polygon
+       fill="#119eff"
+       points="140.51733,154.896 100.85941,194.49707 161.95627,255.56587 201.50827,215.96373 "
+       id="polygon2" />
+    <polygon
+       fill-opacity="0.2"
+       fill="#000000"
+       points="100.85941,194.49707 116.12587,209.67893 140.51733,154.896 "
+       id="polygon3" />
+    <polygon
+       fill="#53b9ff"
+       points="93.916587,0.31099307 54.364587,39.91296 216.0096,201.76107 255.5616,162.15893 194.5696,100.98517 256,39.477973 216.43093,0 155.01867,61.383573 "
+       id="polygon4" />
+    <polygon
+       fill="#119eff"
+       points="115.36,100.98677 155.01867,61.385067 93.916587,0.31250027 54.364587,39.914453 "
+       id="polygon5" />
+    <polygon
+       fill-opacity="0.2"
+       fill="#000000"
+       points="155.0176,61.383787 139.7472,46.197867 115.35893,100.98539 "
+       id="polygon6" />
+  </g>
+</svg>

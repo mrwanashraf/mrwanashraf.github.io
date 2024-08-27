@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="32.000004"
+   height="31.999998"
+   viewBox="0 0 1.2800002 1.2799999"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="nginx.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.3918767"
+     inkscape:cx="244.63374"
+     inkscape:cy="186.43893"
+     inkscape:window-width="1392"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title1">file_type_nginx</title>
+  <g
+     id="g2"
+     transform="matrix(0.05220085,0,0,0.04571894,-0.19530299,-0.09143788)">
+    <path
+       d="m 15.948,2 h 0.065 a 10.418,10.418 0 0 1 0.972,0.528 q 5.429,3.122 10.858,6.246 a 0.792,0.792 0 0 1 0.414,0.788 c -0.008,4.389 0,8.777 -0.005,13.164 a 0.813,0.813 0 0 1 -0.356,0.507 q -5.773,3.324 -11.547,6.644 a 0.587,0.587 0 0 1 -0.657,0.037 Q 9.912,26.6 4.143,23.274 a 0.7,0.7 0 0 1 -0.4,-0.666 q 0,-6.582 0,-13.163 A 0.693,0.693 0 0 1 4.13,8.775 Q 9.552,5.657 14.974,2.535 C 15.296,2.351 15.612,2.156 15.948,2"
+       style="fill:#019639"
+       id="path1" />
+    <path
+       d="m 8.767,10.538 q 0,5.429 0,10.859 a 1.509,1.509 0 0 0 0.427,1.087 1.647,1.647 0 0 0 2.06,0.206 1.564,1.564 0 0 0 0.685,-1.293 c 0,-2.62 -0.005,-5.24 0,-7.86 q 3.583,4.29 7.181,8.568 a 2.833,2.833 0 0 0 2.6,0.782 1.561,1.561 0 0 0 1.251,-1.371 q 0.008,-5.541 0,-11.081 a 1.582,1.582 0 0 0 -3.152,0 c 0,2.662 -0.016,5.321 0,7.982 -2.346,-2.766 -4.663,-5.556 -7,-8.332 A 2.817,2.817 0 0 0 10.17,9.033 1.579,1.579 0 0 0 8.767,10.538 Z"
+       style="fill:#ffffff"
+       id="path2" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>file_type_nginx</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

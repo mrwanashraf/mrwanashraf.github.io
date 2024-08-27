@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 31.970585 31.941038"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="chrome-devtools.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   width="31.970585"
+   height="31.941038"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.27434311"
+     inkscape:cx="264.26762"
+     inkscape:cy="668.87045"
+     inkscape:window-width="1392"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <style
+     id="style1">.e{fill:#fff}.a{stroke:#fff}.b{stop-color:#fff}.c{stop-color:#1a237e}.d{stop-opacity:0}.f{stop-opacity:.12}</style>
+  <radialGradient
+     id="f"
+     cx="341"
+     cy="329"
+     r="1200"
+     fx="341"
+     fy="329"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       class="b f"
+       offset="0"
+       id="stop1" />
+    <stop
+       class="b d"
+       offset="1"
+       id="stop2" />
+  </radialGradient>
+  <radialGradient
+     id="g"
+     cx="328.02338"
+     cy="329.4444"
+     r="475.91794"
+     gradientTransform="scale(0.76356023,1.3096544)"
+     fx="328.02338"
+     fy="329.4444"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       class="c"
+       offset="0"
+       stop-opacity=".2"
+       id="stop3" />
+    <stop
+       class="c d"
+       offset="1"
+       id="stop4" />
+  </radialGradient>
+  <radialGradient
+     id="h"
+     cx="1265.4022"
+     cy="726.90497"
+     r="540.97144"
+     gradientTransform="scale(0.75609163,1.322591)"
+     fx="1265.4022"
+     fy="726.90497"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       class="c f"
+       offset="0"
+       id="stop5" />
+    <stop
+       class="c d"
+       offset="1"
+       id="stop6" />
+  </radialGradient>
+  <radialGradient
+     id="i"
+     cx="672.55927"
+     cy="591.24677"
+     r="379.58771"
+     gradientTransform="scale(1.2165571,0.82199185)"
+     fx="672.55927"
+     fy="591.24677"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       class="c"
+       offset="0"
+       stop-opacity=".15"
+       id="stop7" />
+    <stop
+       class="c d"
+       offset="1"
+       id="stop8" />
+  </radialGradient>
+  <mask
+     id="j"
+     width="120"
+     height="120"
+     x="0"
+     y="0"
+     class="e">
+    <use
+       xlink:href="#a"
+       id="use8" />
+  </mask>
+  <mask
+     id="k"
+     width="56"
+     height="56"
+     x="0"
+     y="0"
+     class="e">
+    <use
+       xlink:href="#b"
+       id="use9" />
+  </mask>
+  <mask
+     id="l"
+     width="40"
+     height="40"
+     x="0"
+     y="0"
+     class="e">
+    <use
+       xlink:href="#c"
+       id="use10" />
+  </mask>
+  <g
+     id="g20"
+     transform="matrix(0.01662074,0,0,0.01660538,3.3369089,3.3338251)">
+    <rect
+       id="d"
+       width="1520"
+       height="1520"
+       rx="120"
+       x="0"
+       y="0" />
+    <path
+       id="a"
+       d="m 761,1361 a 600,600 0 1 0 0,-1200 600,600 0 0 0 0,1200 z" />
+    <circle
+       id="b"
+       cx="761"
+       cy="761"
+       r="280" />
+    <circle
+       id="c"
+       cx="761"
+       cy="761"
+       r="200" />
+    <use
+       fill="#2879ff"
+       xlink:href="#d"
+       id="use11" />
+    <g
+       stroke-opacity="0.2"
+       stroke-width="5"
+       class="a"
+       xlink:href="#d"
+       id="g12">
+      <path
+         d="m -199,-199 1920,1920 m 0,-1920 -1920,1920 M 1038.5,-199 V 1721 M 483.5,-199 V 1721 M 1721,1038.5 H -199 m 1920,-555 H -199"
+         id="path11" />
+      <circle
+         cx="761"
+         cy="761"
+         r="390"
+         id="circle11" />
+      <path
+         d="M -199,761 H 1721 M 761,-199 v 1920"
+         id="path12" />
+    </g>
+    <circle
+       cx="761"
+       cy="761"
+       fill="url(#f)"
+       id="circle12"
+       r="600"
+       style="fill:url(#f)" />
+    <path
+       d="M 1400,0 H 120 C 54,0 0,54 0,120 v 10 C 0,64 54,10 120,10 h 1280 c 66,0 120,54 120,120 V 120 C 1520,54 1466,0 1400,0 Z"
+       class="e"
+       opacity="0.2"
+       id="path13" />
+    <path
+       fill="#000000"
+       d="M 1401,1511 H 121 C 55,1511 1,1457 1,1391 v 10 c 0,66 54,120 120,120 h 1280 c 66,0 120,-54 120,-120 v -10 c 0,66 -54,120 -120,120 z"
+       opacity="0.1"
+       id="path14" />
+    <path
+       fill="url(#g)"
+       d="M 495.9,675.8 251,431 518.2,889.3 A 273.7,273.7 0 0 1 495.8,675.8 Z"
+       id="path15"
+       style="fill:url(#g)" />
+    <path
+       fill="url(#h)"
+       d="M 820.7,1031 731,1365.6 996.6,901 a 274.2,274.2 0 0 1 -176,130 z"
+       id="path16"
+       style="fill:url(#h)" />
+    <path
+       fill="url(#i)"
+       d="M 962,575.3 1296.2,486 H 759.7 A 273.7,273.7 0 1 0 962,575.3 Z"
+       id="path17"
+       style="fill:url(#i)" />
+    <g
+       stroke-width="40"
+       class="a"
+       id="g19">
+      <use
+         mask="url(#j)"
+         xlink:href="#a"
+         id="use17" />
+      <use
+         mask="url(#k)"
+         xlink:href="#b"
+         id="use18" />
+      <use
+         mask="url(#l)"
+         xlink:href="#c"
+         id="use19" />
+    </g>
+    <path
+       d="m 761,481 h 530 v 20 H 761 Z m 242.5,420 -265,459 -17.3,-10 265,-459 z m -485,0 -265,-459 17.3,-10 265,459 z"
+       class="e"
+       id="path19" />
+  </g>
+</svg>

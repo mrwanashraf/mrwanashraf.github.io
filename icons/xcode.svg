@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg143"
+   sodipodi:docname="xcode.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   width="32"
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs143" />
+  <sodipodi:namedview
+     id="namedview143"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.9399013"
+     inkscape:cx="90.738314"
+     inkscape:cy="91.245941"
+     inkscape:window-width="1392"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg143" />
+  <linearGradient
+     id="xcode-original-a"
+     gradientUnits="userSpaceOnUse"
+     x1="63.946999"
+     y1="114.165"
+     x2="63.946999"
+     y2="13.784">
+    <stop
+       offset="0"
+       stop-color="#1578e4"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#00c3f2"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-b"
+     gradientUnits="userSpaceOnUse"
+     x1="94.037003"
+     y1="79.666"
+     x2="94.037003"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop12" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop13" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-c"
+     gradientUnits="userSpaceOnUse"
+     x1="89.042"
+     y1="79.666"
+     x2="89.042"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop14" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop15" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-d"
+     gradientUnits="userSpaceOnUse"
+     x1="63.946999"
+     y1="79.666"
+     x2="63.946999"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop16" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop17" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-e"
+     gradientUnits="userSpaceOnUse"
+     x1="58.952"
+     y1="79.666"
+     x2="58.952"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop19" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-f"
+     gradientUnits="userSpaceOnUse"
+     x1="53.958"
+     y1="79.666"
+     x2="53.958"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop20" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop21" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-g"
+     gradientUnits="userSpaceOnUse"
+     x1="48.963001"
+     y1="79.666"
+     x2="48.963001"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop22" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop23" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-h"
+     gradientUnits="userSpaceOnUse"
+     x1="43.967999"
+     y1="79.666"
+     x2="43.967999"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop24" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop25" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-i"
+     gradientUnits="userSpaceOnUse"
+     x1="38.852001"
+     y1="79.666"
+     x2="38.852001"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop26" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop27" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-j"
+     gradientUnits="userSpaceOnUse"
+     x1="33.856998"
+     y1="79.666"
+     x2="33.856998"
+     y2="72.183998">
+    <stop
+       offset="0"
+       stop-color="#1492e7"
+       id="stop28" />
+    <stop
+       offset="1"
+       stop-color="#dbedfb"
+       id="stop29" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-k"
+     gradientUnits="userSpaceOnUse"
+     x1="73.580002"
+     y1="94.25"
+     x2="73.580002"
+     y2="32.641998">
+    <stop
+       offset="0"
+       stop-color="#1285e7"
+       id="stop30" />
+    <stop
+       offset="1"
+       stop-color="#00b5ef"
+       id="stop31" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-l"
+     gradientUnits="userSpaceOnUse"
+     x1="87.463997"
+     y1="93.977997"
+     x2="54.081001"
+     y2="36.155998">
+    <stop
+       offset="0"
+       stop-color="#2b90e7"
+       id="stop32" />
+    <stop
+       offset="1"
+       stop-color="#00b6ef"
+       id="stop33" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-m"
+     gradientUnits="userSpaceOnUse"
+     x1="89.072998"
+     y1="94.327003"
+     x2="54.583"
+     y2="34.589001">
+    <stop
+       offset="0"
+       stop-color="#3795ea"
+       id="stop34" />
+    <stop
+       offset="1"
+       stop-color="#49c4f2"
+       id="stop35" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-n"
+     gradientUnits="userSpaceOnUse"
+     x1="91.026001"
+     y1="93.735001"
+     x2="56.071999"
+     y2="33.193001">
+    <stop
+       offset="0"
+       stop-color="#3696ea"
+       id="stop36" />
+    <stop
+       offset="1"
+       stop-color="#90d9f6"
+       id="stop37" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-o"
+     gradientUnits="userSpaceOnUse"
+     x1="92.582001"
+     y1="92.332001"
+     x2="58.064999"
+     y2="32.547001">
+    <stop
+       offset="0"
+       stop-color="#3097ea"
+       id="stop38" />
+    <stop
+       offset="1"
+       stop-color="#b5e5f9"
+       id="stop39" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-p"
+     gradientUnits="userSpaceOnUse"
+     x1="93.083"
+     y1="90.685997"
+     x2="59.741001"
+     y2="32.936001">
+    <stop
+       offset="0"
+       stop-color="#3a98ea"
+       id="stop40" />
+    <stop
+       offset="1"
+       stop-color="#bce7fa"
+       id="stop41" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-q"
+     gradientUnits="userSpaceOnUse"
+     x1="67.981003"
+     y1="61.226002"
+     x2="74.457001"
+     y2="57.487">
+    <stop
+       offset="0"
+       stop-color="#00a4ec"
+       id="stop44" />
+    <stop
+       offset="1"
+       stop-color="#b9dff6"
+       id="stop45" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-r"
+     gradientUnits="userSpaceOnUse"
+     x1="65.487"
+     y1="56.905998"
+     x2="71.961998"
+     y2="53.167">
+    <stop
+       offset="0"
+       stop-color="#00a4ec"
+       id="stop46" />
+    <stop
+       offset="1"
+       stop-color="#b9dff6"
+       id="stop47" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-s"
+     gradientUnits="userSpaceOnUse"
+     x1="57.93"
+     y1="43.819"
+     x2="64.363998"
+     y2="40.105">
+    <stop
+       offset="0"
+       stop-color="#00b4ef"
+       id="stop48" />
+    <stop
+       offset="1"
+       stop-color="#c3e9fa"
+       id="stop49" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-t"
+     gradientUnits="userSpaceOnUse"
+     x1="55.424"
+     y1="39.477001"
+     x2="61.900002"
+     y2="35.737999">
+    <stop
+       offset="0"
+       stop-color="#00b4ef"
+       id="stop50" />
+    <stop
+       offset="1"
+       stop-color="#c3e9fa"
+       id="stop51" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-u"
+     gradientUnits="userSpaceOnUse"
+     x1="54.566002"
+     y1="94.401001"
+     x2="54.566002"
+     y2="32.793999">
+    <stop
+       offset="0"
+       stop-color="#1285e7"
+       id="stop52" />
+    <stop
+       offset="1"
+       stop-color="#00b5ef"
+       id="stop53" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-v"
+     gradientUnits="userSpaceOnUse"
+     x1="40.681"
+     y1="94.130997"
+     x2="74.064003"
+     y2="36.311001">
+    <stop
+       offset="0"
+       stop-color="#3194e9"
+       id="stop54" />
+    <stop
+       offset="1"
+       stop-color="#71cff4"
+       id="stop55" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-w"
+     gradientUnits="userSpaceOnUse"
+     x1="39.063"
+     y1="94.482002"
+     x2="73.556999"
+     y2="34.736">
+    <stop
+       offset="0"
+       stop-color="#5aa6ec"
+       id="stop56" />
+    <stop
+       offset="1"
+       stop-color="#a2def8"
+       id="stop57" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-x"
+     gradientUnits="userSpaceOnUse"
+     x1="37.118"
+     y1="93.885002"
+     x2="72.071999"
+     y2="33.342999">
+    <stop
+       offset="0"
+       stop-color="#66abee"
+       id="stop58" />
+    <stop
+       offset="1"
+       stop-color="#bee8fa"
+       id="stop59" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-y"
+     gradientUnits="userSpaceOnUse"
+     x1="35.568001"
+     y1="92.482002"
+     x2="70.084999"
+     y2="32.696999">
+    <stop
+       offset="0"
+       stop-color="#7bb6f0"
+       id="stop60" />
+    <stop
+       offset="1"
+       stop-color="#b1e3f9"
+       id="stop61" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-z"
+     gradientUnits="userSpaceOnUse"
+     x1="35.056"
+     y1="90.872002"
+     x2="68.415001"
+     y2="33.091999">
+    <stop
+       offset="0"
+       stop-color="#5aa6ec"
+       id="stop62" />
+    <stop
+       offset="1"
+       stop-color="#afe3f9"
+       id="stop63" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-A"
+     gradientUnits="userSpaceOnUse"
+     x1="66.362"
+     y1="35.688999"
+     x2="72.837997"
+     y2="39.428001">
+    <stop
+       offset="0"
+       stop-color="#c1e7fa"
+       id="stop64" />
+    <stop
+       offset="1"
+       stop-color="#89d4f5"
+       id="stop65" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-B"
+     gradientUnits="userSpaceOnUse"
+     x1="63.855999"
+     y1="40.029999"
+     x2="70.332001"
+     y2="43.768002">
+    <stop
+       offset="0"
+       stop-color="#c1e7fa"
+       id="stop66" />
+    <stop
+       offset="1"
+       stop-color="#89d4f5"
+       id="stop67" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-C"
+     gradientUnits="userSpaceOnUse"
+     x1="61.272999"
+     y1="44.505001"
+     x2="67.748001"
+     y2="48.243">
+    <stop
+       offset="0"
+       stop-color="#c1e7fa"
+       id="stop68" />
+    <stop
+       offset="1"
+       stop-color="#89d4f5"
+       id="stop69" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-D"
+     gradientUnits="userSpaceOnUse"
+     x1="58.761002"
+     y1="48.855"
+     x2="65.236"
+     y2="52.594002">
+    <stop
+       offset="0"
+       stop-color="#b0dff8"
+       id="stop70" />
+    <stop
+       offset="1"
+       stop-color="#52bdf2"
+       id="stop71" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-E"
+     gradientUnits="userSpaceOnUse"
+     x1="56.25"
+     y1="53.203999"
+     x2="62.727001"
+     y2="56.943001">
+    <stop
+       offset="0"
+       stop-color="#b4def8"
+       id="stop72" />
+    <stop
+       offset="1"
+       stop-color="#4eb5f0"
+       id="stop73" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-F"
+     gradientUnits="userSpaceOnUse"
+     x1="53.740002"
+     y1="57.553001"
+     x2="60.215"
+     y2="61.291">
+    <stop
+       offset="0"
+       stop-color="#b4def8"
+       id="stop74" />
+    <stop
+       offset="1"
+       stop-color="#4eb5f0"
+       id="stop75" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-G"
+     gradientUnits="userSpaceOnUse"
+     x1="51.238998"
+     y1="61.886002"
+     x2="57.713001"
+     y2="65.624001">
+    <stop
+       offset="0"
+       stop-color="#b5ddf8"
+       id="stop76" />
+    <stop
+       offset="1"
+       stop-color="#46aeee"
+       id="stop77" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-H"
+     gradientUnits="userSpaceOnUse"
+     x1="48.735001"
+     y1="66.220001"
+     x2="55.210999"
+     y2="69.959">
+    <stop
+       offset="0"
+       stop-color="#96cef4"
+       id="stop78" />
+    <stop
+       offset="1"
+       stop-color="#46aaee"
+       id="stop79" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-I"
+     gradientUnits="userSpaceOnUse"
+     x1="42.719002"
+     y1="80.135002"
+     x2="47.681"
+     y2="83">
+    <stop
+       offset="0"
+       stop-color="#8fc1f2"
+       id="stop80" />
+    <stop
+       offset="1"
+       stop-color="#3193ea"
+       id="stop81" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-J"
+     gradientUnits="userSpaceOnUse"
+     x1="38.633999"
+     y1="83.717003"
+     x2="45.110001"
+     y2="87.456001">
+    <stop
+       offset="0"
+       stop-color="#8fc1f2"
+       id="stop82" />
+    <stop
+       offset="1"
+       stop-color="#3193ea"
+       id="stop83" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-K"
+     gradientUnits="userSpaceOnUse"
+     x1="36.124001"
+     y1="88.063004"
+     x2="42.598999"
+     y2="91.802002">
+    <stop
+       offset="0"
+       stop-color="#8fc1f2"
+       id="stop84" />
+    <stop
+       offset="1"
+       stop-color="#3193ea"
+       id="stop85" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-L"
+     gradientUnits="userSpaceOnUse"
+     x1="76.722"
+     y1="64.932999"
+     x2="89.179001"
+     y2="71.008003">
+    <stop
+       offset=".001"
+       id="stop86" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop87" />
+  </linearGradient>
+  <radialGradient
+     id="xcode-original-M"
+     cx="95.237"
+     cy="25.132"
+     r="16.181"
+     fx="79.584999"
+     fy="25.974001"
+     gradientTransform="matrix(-0.4494,0.8933,-1.5457,-0.7777,176.886,-40.4)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       id="stop88" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop89" />
+  </radialGradient>
+  <radialGradient
+     id="xcode-original-N"
+     cx="51.210999"
+     cy="114.953"
+     r="7.901"
+     fx="51.195999"
+     fy="117.292"
+     gradientTransform="matrix(0.8979,0.4402,-0.2506,0.5111,34.032,33.662)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".417"
+       stop-color="#0c0c12"
+       id="stop90" />
+    <stop
+       offset="1"
+       stop-color="#3d4651"
+       id="stop91" />
+  </radialGradient>
+  <linearGradient
+     id="xcode-original-O"
+     gradientUnits="userSpaceOnUse"
+     x1="84.758003"
+     y1="39.174"
+     x2="94.522003"
+     y2="44.148998">
+    <stop
+       offset="0"
+       stop-color="#344351"
+       id="stop92" />
+    <stop
+       offset=".1"
+       stop-color="#9697a0"
+       id="stop93" />
+    <stop
+       offset=".181"
+       stop-color="#8b8c95"
+       id="stop94" />
+    <stop
+       offset=".351"
+       stop-color="#787a83"
+       id="stop95" />
+    <stop
+       offset=".47"
+       stop-color="#71747d"
+       id="stop96" />
+    <stop
+       offset=".591"
+       stop-color="#777982"
+       id="stop97" />
+    <stop
+       offset=".749"
+       stop-color="#87898f"
+       id="stop98" />
+    <stop
+       offset=".8"
+       stop-color="#8e8f94"
+       id="stop99" />
+    <stop
+       offset=".849"
+       stop-color="#3d3b42"
+       id="stop100" />
+    <stop
+       offset=".9"
+       stop-color="#606e84"
+       id="stop101" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-P"
+     gradientUnits="userSpaceOnUse"
+     x1="117.884"
+     y1="29.257"
+     x2="106.863"
+     y2="14.364">
+    <stop
+       offset=".27"
+       stop-color="#262b33"
+       id="stop102" />
+    <stop
+       offset=".45"
+       stop-color="#74747e"
+       id="stop103" />
+    <stop
+       offset=".54"
+       stop-color="#b0b0bc"
+       id="stop104" />
+    <stop
+       offset=".73"
+       stop-color="#74747e"
+       id="stop105" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-Q"
+     gradientUnits="userSpaceOnUse"
+     x1="98.542"
+     y1="30.424"
+     x2="114.815"
+     y2="28.322001">
+    <stop
+       offset=".14"
+       stop-color="#606e84"
+       id="stop106" />
+    <stop
+       offset=".4"
+       stop-color="#9899a5"
+       id="stop107" />
+    <stop
+       offset=".73"
+       stop-color="#475768"
+       id="stop108" />
+    <stop
+       offset=".92"
+       stop-color="#262b33"
+       id="stop109" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-R"
+     gradientUnits="userSpaceOnUse"
+     x1="106.128"
+     y1="31.808001"
+     x2="104.549"
+     y2="22.854">
+    <stop
+       offset="0"
+       stop-color="#101215"
+       stop-opacity=".1"
+       id="stop110" />
+    <stop
+       offset=".46"
+       stop-color="#101215"
+       stop-opacity=".7"
+       id="stop111" />
+    <stop
+       offset=".7"
+       stop-color="#474951"
+       id="stop112" />
+    <stop
+       offset=".91"
+       stop-color="#7b7d88"
+       id="stop113" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-S"
+     gradientUnits="userSpaceOnUse"
+     x1="58.131001"
+     y1="81.721001"
+     x2="73.237"
+     y2="89.153999">
+    <stop
+       offset=".115"
+       stop-color="#2c3952"
+       id="stop114" />
+    <stop
+       offset=".374"
+       stop-color="#3d414e"
+       id="stop115" />
+    <stop
+       offset=".55"
+       stop-color="#474a54"
+       id="stop116" />
+    <stop
+       offset=".754"
+       stop-color="#4e5057"
+       id="stop117" />
+    <stop
+       offset=".892"
+       stop-color="#323945"
+       id="stop118" />
+    <stop
+       offset="1"
+       stop-color="#143052"
+       id="stop119" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-T"
+     gradientUnits="userSpaceOnUse"
+     x1="81.508003"
+     y1="31.679001"
+     x2="93.190002"
+     y2="6.0469999">
+    <stop
+       offset=".118"
+       stop-color="#6d7078"
+       stop-opacity="0"
+       id="stop120" />
+    <stop
+       offset=".2"
+       stop-color="#6d7078"
+       stop-opacity=".7"
+       id="stop121" />
+    <stop
+       offset=".34"
+       stop-color="#35363a"
+       id="stop122" />
+    <stop
+       offset=".374"
+       stop-color="#1d1f22"
+       id="stop123" />
+    <stop
+       offset=".4"
+       stop-color="#101215"
+       id="stop124" />
+    <stop
+       offset=".5"
+       stop-color="#16171a"
+       id="stop125" />
+    <stop
+       offset=".56"
+       stop-color="#292a2e"
+       id="stop126" />
+    <stop
+       offset=".688"
+       stop-color="#4b4d51"
+       id="stop127" />
+    <stop
+       offset=".807"
+       stop-color="#63666b"
+       id="stop128" />
+    <stop
+       offset=".915"
+       stop-color="#72757b"
+       id="stop129" />
+    <stop
+       offset="1"
+       stop-color="#777a80"
+       id="stop130" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-U"
+     gradientUnits="userSpaceOnUse"
+     x1="69.064003"
+     y1="16.837"
+     x2="91.026001"
+     y2="16.837">
+    <stop
+       offset="0"
+       stop-color="#4a4d56"
+       id="stop131" />
+    <stop
+       offset="1"
+       stop-color="#29292d"
+       id="stop132" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-V"
+     gradientUnits="userSpaceOnUse"
+     x1="69.064003"
+     y1="11.697"
+     x2="88.054001"
+     y2="11.697">
+    <stop
+       offset="0"
+       stop-color="#767880"
+       id="stop133" />
+    <stop
+       offset=".41"
+       stop-color="#0c0a0b"
+       id="stop134" />
+  </linearGradient>
+  <linearGradient
+     id="xcode-original-W"
+     gradientUnits="userSpaceOnUse"
+     x1="116.332"
+     y1="34.756001"
+     x2="123.707"
+     y2="21.982">
+    <stop
+       offset="0"
+       stop-color="#858997"
+       id="stop135" />
+    <stop
+       offset=".23"
+       stop-color="#244668"
+       id="stop136" />
+    <stop
+       offset=".282"
+       stop-color="#1a3249"
+       id="stop137" />
+    <stop
+       offset=".4"
+       stop-color="#040506"
+       id="stop138" />
+    <stop
+       offset=".464"
+       stop-color="#313236"
+       id="stop139" />
+    <stop
+       offset=".546"
+       stop-color="#65656e"
+       id="stop140" />
+    <stop
+       offset=".607"
+       stop-color="#868691"
+       id="stop141" />
+    <stop
+       offset=".64"
+       stop-color="#92929e"
+       id="stop142" />
+  </linearGradient>
+  <g
+     id="g143"
+     transform="matrix(0.28451402,0,0,0.27826087,-3.9262935,-1.5304348)">
+    <path
+       d="m 35.7,13.8 h 56.5 c 12.1,0 21.9,9.8 21.9,21.9 v 56.5 c 0,12.1 -9.8,21.9 -21.9,21.9 H 35.7 c -12.1,0 -21.9,-9.8 -21.9,-21.9 V 35.7 c 0,-12.1 9.8,-21.9 21.9,-21.9 z"
+       fill="url(#xcode-original-a)"
+       id="path2"
+       style="fill:url(#xcode-original-a)" />
+    <path
+       fill="#ffffff"
+       d="M 90.5,19.2 H 37.4 c -10.1,0 -18.3,8.2 -18.3,18.3 v 53.1 c 0,10.1 8.2,18.3 18.3,18.3 h 53.1 c 10.1,0 18.3,-8.2 18.3,-18.3 V 37.4 c 0,-10.1 -8.2,-18.2 -18.3,-18.2 z m 16.8,71.6 c 0,9.2 -7.4,16.6 -16.6,16.6 H 37.2 C 28.1,107.4 20.6,100 20.6,90.8 V 37.2 C 20.6,28 28,20.6 37.2,20.6 h 53.6 c 9.1,0 16.6,7.4 16.6,16.6 v 53.6 z"
+       id="path3" />
+    <path
+       d="m 64.1,22.8 c -22.6,0 -41,18.4 -41,41 0,22.6 18.4,41 41,41 22.7,0 41,-18.4 41,-41 0,-22.6 -18.4,-41 -41,-41 z m 0,81.4 c -22.3,0 -40.4,-18.1 -40.4,-40.4 0,-22.3 18.1,-40.4 40.4,-40.4 22.3,0 40.4,18.1 40.4,40.4 0,22.3 -18.1,40.4 -40.4,40.4 z"
+       fill="#69c5f3"
+       id="path4" />
+    <path
+       d="M 64.1,31.2 C 46,31.2 31.4,45.8 31.4,63.9 31.4,82 46,96.5 64.1,96.5 82.2,96.5 96.8,81.9 96.8,63.8 96.8,45.7 82.1,31.2 64.1,31.2 Z m 0,64.6 c -17.7,0 -32,-14.3 -32,-32 0,-17.7 14.3,-32 32,-32 17.7,0 32,14.3 32,32 0,17.7 -14.4,32 -32,32 z"
+       fill="#68c5f4"
+       id="path5" />
+    <path
+       fill="#ffffff"
+       d="m 32.8,71.3 h 62.4 c 2.6,0 4.6,2.1 4.6,4.6 0,2.6 -2.1,4.6 -4.6,4.6 H 32.8 c -2.6,0 -4.6,-2.1 -4.6,-4.6 -0.1,-2.5 2,-4.6 4.6,-4.6 z"
+       id="path6" />
+    <path
+       d="m 32.6,72.2 h 62.6 c 2,0 3.7,1.6 3.7,3.7 V 76 c 0,2 -1.6,3.7 -3.7,3.7 H 32.6 c -2,0 -3.7,-1.6 -3.7,-3.7 v -0.2 c 0.1,-2 1.7,-3.6 3.7,-3.6 z"
+       fill="#0a93e9"
+       id="path7" />
+    <path
+       d="M 31.1,79.3 H 96.8 L 97.3,79 H 30.6 Z"
+       fill="#1694ea"
+       id="path8" />
+    <path
+       d="m 29.6,78.1 h 68.6 l 0.2,-0.3 h -69 z"
+       fill="#319dec"
+       id="path9" />
+    <path
+       d="M 29,76.2 H 98.9 V 75.8 H 29 Z"
+       fill="#65b1ee"
+       id="path10" />
+    <path
+       d="m 29.7,73.7 h 68.6 l 0.1,0.2 0.1,0.2 h -69 l 0.1,-0.2 z"
+       fill="#8ec6f3"
+       id="path11" />
+    <path
+       d="m 31.2,72.5 h 65.6 l 0.3,0.1 0.3,0.2 H 30.6 l 0.3,-0.2 z"
+       fill="#95caf3"
+       id="path12" />
+    <path
+       d="m 93.4,72.2 h -0.5 c 0,0 1.7,1.2 1.7,3.9 0,2.5 -1.7,3.6 -1.7,3.6 h 0.5 c 0,0 1.7,-0.8 1.7,-3.6 0,-3 -1.7,-3.9 -1.7,-3.9 z"
+       fill="url(#xcode-original-b)"
+       id="path13"
+       style="fill:url(#xcode-original-b)" />
+    <path
+       d="m 88.6,72.2 h -0.5 c 0,0 1.5,1.4 1.5,3.9 0,2.2 -1.5,3.6 -1.5,3.6 h 0.5 c 0,0 1.5,-1.1 1.5,-3.6 -0.1,-2.7 -1.5,-3.9 -1.5,-3.9 z"
+       fill="url(#xcode-original-c)"
+       id="path15"
+       style="fill:url(#xcode-original-c)" />
+    <path
+       d="m 63.7,72.2 h 0.5 v 7.5 h -0.5 z"
+       fill="url(#xcode-original-d)"
+       id="path17"
+       style="fill:url(#xcode-original-d)" />
+    <path
+       d="m 58.8,72.2 h 0.5 c 0,0 -0.2,1.9 -0.2,3.9 0,1.8 0.2,3.6 0.2,3.6 h -0.5 c 0,0 -0.2,-1.8 -0.2,-3.6 0,-2 0.2,-3.9 0.2,-3.9 z"
+       fill="url(#xcode-original-e)"
+       id="path19"
+       style="fill:url(#xcode-original-e)" />
+    <path
+       d="m 54,72.2 h 0.5 c 0,0 -0.5,1.9 -0.5,3.9 0,1.8 0.5,3.6 0.5,3.6 H 54 c 0,0 -0.5,-1.8 -0.5,-3.6 0,-2 0.5,-3.9 0.5,-3.9 z"
+       fill="url(#xcode-original-f)"
+       id="path21"
+       style="fill:url(#xcode-original-f)" />
+    <path
+       d="m 49.1,72.2 h 0.5 c 0,0 -0.7,1.9 -0.7,3.9 0,1.8 0.7,3.6 0.7,3.6 h -0.5 c 0,0 -0.7,-1.8 -0.7,-3.6 0,-2 0.7,-3.9 0.7,-3.9 z"
+       fill="url(#xcode-original-g)"
+       id="path23"
+       style="fill:url(#xcode-original-g)" />
+    <path
+       d="m 44.2,72.2 h 0.5 c 0,0 -1,1.6 -1,3.9 0,2 1,3.6 1,3.6 h -0.5 c 0,0 -1,-1.6 -1,-3.6 0,-2.3 1,-3.9 1,-3.9 z"
+       fill="url(#xcode-original-h)"
+       id="path25"
+       style="fill:url(#xcode-original-h)" />
+    <path
+       d="m 39.3,72.2 h 0.5 c 0,0 -1.5,1.4 -1.5,3.9 0,2.2 1.5,3.6 1.5,3.6 h -0.5 c 0,0 -1.5,-1.1 -1.5,-3.6 0.1,-2.7 1.5,-3.9 1.5,-3.9 z"
+       fill="url(#xcode-original-i)"
+       id="path27"
+       style="fill:url(#xcode-original-i)" />
+    <path
+       d="M 34.5,72.2 H 35 c 0,0 -1.7,1.2 -1.7,3.9 0,2.5 1.7,3.6 1.7,3.6 h -0.5 c 0,0 -1.7,-0.8 -1.7,-3.6 0,-3 1.7,-3.9 1.7,-3.9 z"
+       fill="url(#xcode-original-j)"
+       id="path29"
+       style="fill:url(#xcode-original-j)" />
+    <path
+       fill="#ffffff"
+       d="m 62,34.1 31.2,54 c 1.3,2.2 0.5,5 -1.7,6.3 -2.2,1.3 -5,0.5 -6.3,-1.7 L 54,38.7 c -1.3,-2.2 -0.5,-5 1.7,-6.3 2.2,-1.3 5,-0.5 6.3,1.7 z"
+       id="path30" />
+    <path
+       d="m 61.2,34.5 31.3,54.2 c 1,1.7 0.4,4 -1.3,5 L 91,93.8 c -1.7,1 -4,0.4 -5,-1.3 L 54.7,38.2 c -1,-1.7 -0.4,-4 1.3,-5 l 0.1,-0.1 c 1.8,-1 4.1,-0.4 5.1,1.4 z"
+       fill="url(#xcode-original-k)"
+       id="path31"
+       style="fill:url(#xcode-original-k)" />
+    <path
+       d="m 54.2,36.7 32.8,56.9 0.2,0.1 0.2,0.1 0.2,0.1 -33.4,-57.8 z"
+       fill="url(#xcode-original-l)"
+       id="path33"
+       style="fill:url(#xcode-original-l)" />
+    <path
+       d="m 54.5,34.8 34.3,59.4 h 0.4 L 54.7,34.5 54.6,34.7 Z"
+       fill="url(#xcode-original-m)"
+       id="path35"
+       style="fill:url(#xcode-original-m)" />
+    <path
+       d="m 55.9,33.3 35,60.5 0.3,-0.2 -35,-60.5 z"
+       fill="url(#xcode-original-n)"
+       id="path37"
+       style="fill:url(#xcode-original-n)" />
+    <path
+       d="M 58.4,32.7 92.6,92 92.5,92.2 92.4,92.4 57.9,32.6 h 0.2 z"
+       fill="url(#xcode-original-o)"
+       id="path39"
+       style="fill:url(#xcode-original-o)" />
+    <path
+       d="M 60.2,33.3 93,90.1 v 0.6 L 59.6,33 l 0.2,0.1 0.2,0.1 z"
+       fill="url(#xcode-original-p)"
+       id="path41"
+       style="fill:url(#xcode-original-p)" />
+    <path
+       fill="#3c98ea"
+       d="m 91.5,86.9 -0.2,-0.4 c 0,0 -0.2,2 -2.4,3.4 -2.1,1.3 -4,0.4 -4,0.4 l 0.2,0.4 c 0,0 1.6,1.1 4,-0.4 2.4,-1.4 2.4,-3.4 2.4,-3.4 z M 89,82.7 88.8,82.3 c 0,0 -0.5,2 -2.6,3.2 -1.9,1.2 -3.8,0.6 -3.8,0.6 l 0.2,0.4 c 0,0 1.7,0.7 3.9,-0.6 2.2,-1.3 2.5,-3.2 2.5,-3.2 z"
+       id="path42" />
+    <path
+       d="m 86.6,78.5 -0.2,-0.4 c 0,0 -0.9,1.7 -2.8,2.8 -1.7,1 -3.6,1 -3.6,1 l 0.2,0.4 c 0,0 1.8,0 3.6,-1 1.9,-1.1 2.8,-2.8 2.8,-2.8 z"
+       fill="#4ca4ed"
+       id="path43" />
+    <path
+       d="M 84.2,74.3 84,73.9 c 0,0 -1.3,1.7 -3,2.6 -1.6,0.9 -3.5,1.2 -3.5,1.2 l 0.2,0.4 c 0,0 1.9,-0.3 3.5,-1.2 1.6,-0.9 3,-2.6 3,-2.6 z"
+       fill="#4da7ee"
+       id="path44" />
+    <path
+       d="m 74.3,57.3 0.2,0.4 c 0,0 -1.7,0.8 -3.4,1.7 -1.6,0.9 -3,2.1 -3,2.1 l -0.2,-0.4 c 0,0 1.5,-1.2 3,-2.1 1.7,-0.9 3.4,-1.7 3.4,-1.7 z"
+       fill="url(#xcode-original-q)"
+       id="path45"
+       style="fill:url(#xcode-original-q)" />
+    <path
+       d="m 71.9,53.1 0.2,0.4 c 0,0 -1.9,0.6 -3.5,1.6 -1.6,0.9 -2.9,2.3 -2.9,2.3 L 65.5,57 c 0,0 1.3,-1.4 2.9,-2.3 1.6,-1.1 3.5,-1.6 3.5,-1.6 z"
+       fill="url(#xcode-original-r)"
+       id="path47"
+       style="fill:url(#xcode-original-r)" />
+    <path
+       d="m 67.4,49.8 c 1.3,-0.4 2.3,-0.6 2.3,-0.6 l -0.2,-0.4 c 0,0 -0.9,0.1 -1.9,0.5 -0.6,0.2 -0.7,0.7 -0.2,0.5 z"
+       fill="#9dd4f7"
+       id="path48" />
+    <path
+       d="m 64.6,40.5 0.2,0.4 c 0,0 -1.9,-0.5 -4.1,0.7 -1.9,1.2 -2.3,3.1 -2.3,3.1 l -0.2,-0.4 c 0,0 0.2,-1.7 2.3,-3 2.2,-1.4 4.1,-0.8 4.1,-0.8 z"
+       fill="url(#xcode-original-s)"
+       id="path49"
+       style="fill:url(#xcode-original-s)" />
+    <path
+       d="m 62.2,36.2 0.3,0.4 c 0,0 -2,-0.8 -4.3,0.5 C 56,38.5 56,40.4 56,40.4 L 55.7,40 c 0,0 -0.2,-1.7 2.2,-3.2 2.5,-1.5 4.3,-0.6 4.3,-0.6 z"
+       fill="url(#xcode-original-t)"
+       id="path51"
+       style="fill:url(#xcode-original-t)" />
+    <path
+       fill="#ffffff"
+       d="m 55.5,71.3 c 8.7,-15 18.7,-32.4 18.7,-32.4 1.3,-2.2 0.5,-5 -1.7,-6.3 -2.2,-1.3 -5,-0.5 -6.3,1.7 0,0 -12.2,21.2 -21.4,37 z m -5.4,9.2 C 45.9,87.7 43,92.9 43,92.9 c -1.3,2.2 -4.1,3 -6.3,1.7 -2.2,-1.3 -3,-4.1 -1.7,-6.3 0,0 1.7,-3.1 4.4,-7.7 3.4,-0.1 9.6,-0.1 10.7,-0.1 z"
+       id="path52" />
+    <path
+       d="m 54.4,71.3 c 8.8,-15.2 19,-32.9 19,-32.9 1,-1.7 0.4,-4 -1.3,-5 L 72,33.3 c -1.7,-1 -4,-0.4 -5,1.3 0,0 -12,20.8 -21.2,36.7 z m -5.3,9.2 c -4,7 -6.9,12 -6.9,12 -1,1.7 -3.2,2.3 -5,1.3 H 37 c -1.7,-1 -2.3,-3.2 -1.3,-5 0,0 1.9,-3.3 4.8,-8.3 z"
+       fill="url(#xcode-original-u)"
+       id="path53"
+       style="fill:url(#xcode-original-u)" />
+    <path
+       d="M 54.1,71.3 74,36.9 v -0.6 c 0,0 -11,19.1 -20.2,35 z m -5.4,9.2 -7.6,13.2 -0.3,0.2 -0.3,0.1 c 0,0 3.4,-5.9 7.8,-13.5 z"
+       fill="url(#xcode-original-v)"
+       id="path55"
+       style="fill:url(#xcode-original-v)" />
+    <path
+       d="M 52.6,71.3 73.6,35 73.5,34.8 73.4,34.6 c 0,0 -11.5,19.9 -21.1,36.6 z m -5.3,9.2 -8,13.8 h -0.4 c 0,0 3.4,-5.9 8,-13.9 0.2,0.1 0.4,0.1 0.4,0.1 z"
+       fill="url(#xcode-original-w)"
+       id="path57"
+       style="fill:url(#xcode-original-w)" />
+    <path
+       d="M 50.4,71.3 C 60.3,54.2 72.2,33.5 72.2,33.5 l -0.3,-0.2 -22,38 z M 45,80.6 C 40.6,88.3 37.3,94 37.3,94 L 37,93.8 c 0,0 3.2,-5.6 7.6,-13.2 0.2,-0.1 0.1,-0.1 0.4,0 z"
+       fill="url(#xcode-original-x)"
+       id="path59"
+       style="fill:url(#xcode-original-x)" />
+    <path
+       d="M 48,71.3 C 57.9,54.2 70.2,32.8 70.2,32.8 h -0.4 c 0,0 -12.3,21.3 -22.2,38.5 z m -5.8,9.2 c -4,6.9 -6.7,11.6 -6.7,11.6 l 0.1,0.2 0.1,0.2 c 0,0 2.9,-5 7,-12 z"
+       fill="url(#xcode-original-y)"
+       id="path61"
+       style="fill:url(#xcode-original-y)" />
+    <path
+       d="m 46.5,71.3 22,-38.1 -0.2,0.1 -0.2,0.1 -0.1,0.1 c 0,0 -12.2,21.1 -21.8,37.8 z m -5.3,9.2 c -3.5,6.1 -6,10.4 -6,10.4 v -0.8 c 0,0 2.2,-3.8 5.6,-9.7 0.2,0.1 0.2,0.1 0.4,0.1 z"
+       fill="url(#xcode-original-z)"
+       id="path63"
+       style="fill:url(#xcode-original-z)" />
+    <path
+       d="m 66,36.2 -0.2,0.4 c 0,0 1.8,-0.9 4.2,0.4 2.2,1.2 2.3,3.3 2.3,3.3 l 0.2,-0.4 c 0,0 0.2,-1.9 -2.3,-3.3 C 67.7,35.2 66,36.2 66,36.2 Z"
+       fill="url(#xcode-original-A)"
+       id="path65"
+       style="fill:url(#xcode-original-A)" />
+    <path
+       d="m 63.6,40.5 -0.2,0.4 c 0,0 2,-0.6 4.1,0.6 2,1.1 2.4,3 2.4,3 l 0.2,-0.4 c 0,0 -0.2,-1.8 -2.4,-3 -2.3,-1.3 -4.1,-0.6 -4.1,-0.6 z"
+       fill="url(#xcode-original-B)"
+       id="path67"
+       style="fill:url(#xcode-original-B)" />
+    <path
+       d="m 61.1,44.7 -0.2,0.4 c 0,0 1.8,-0.1 3.8,1.1 1.8,1 2.7,2.6 2.7,2.6 l 0.2,-0.4 c 0,0 -0.9,-1.6 -2.7,-2.6 -1.9,-1.1 -3.8,-1.1 -3.8,-1.1 z"
+       fill="url(#xcode-original-C)"
+       id="path69"
+       style="fill:url(#xcode-original-C)" />
+    <path
+       d="m 58.7,49 -0.2,0.4 c 0,0 2,0.3 3.7,1.3 1.6,0.9 2.8,2.4 2.8,2.4 l 0.2,-0.4 c 0,0 -1.2,-1.5 -2.8,-2.4 -1.7,-1 -3.7,-1.3 -3.7,-1.3 z"
+       fill="url(#xcode-original-D)"
+       id="path71"
+       style="fill:url(#xcode-original-D)" />
+    <path
+       d="M 56.2,53.2 56,53.6 c 0,0 1.9,0.5 3.6,1.5 1.6,0.9 2.9,2.2 2.9,2.2 l 0.2,-0.4 c 0,0 -1.3,-1.3 -2.9,-2.2 -1.6,-0.9 -3.6,-1.5 -3.6,-1.5 z"
+       fill="url(#xcode-original-E)"
+       id="path73"
+       style="fill:url(#xcode-original-E)" />
+    <path
+       d="m 53.8,57.4 -0.3,0.4 c 0,0 1.8,0.7 3.5,1.7 1.6,0.9 3,2 3,2 l 0.2,-0.4 c 0,0 -1.4,-1.1 -3,-2 -1.6,-0.9 -3.4,-1.7 -3.4,-1.7 z"
+       fill="url(#xcode-original-F)"
+       id="path75"
+       style="fill:url(#xcode-original-F)" />
+    <path
+       d="m 51.1,62.1 0.2,-0.4 6.5,3.7 -0.2,0.4 z"
+       fill="url(#xcode-original-G)"
+       id="path77"
+       style="fill:url(#xcode-original-G)" />
+    <path
+       d="M 48.7,66.4 48.9,66 c 0,0 1.6,1.2 3.3,2.1 1.6,0.9 3.2,1.6 3.2,1.6 L 55.2,70 c 0,0 -1.7,-0.7 -3.3,-1.6 -1.7,-0.9 -3.2,-2 -3.2,-2 z"
+       fill="url(#xcode-original-H)"
+       id="path79"
+       style="fill:url(#xcode-original-H)" />
+    <path
+       d="m 47.1,71.3 c -0.5,-0.4 -0.8,-0.7 -0.8,-0.7 l 0.2,-0.4 c 0,0 0.6,0.5 1.4,1.1 z"
+       fill="#73b9f1"
+       id="path80" />
+    <path
+       d="m 43.2,80.5 c 0.4,0.3 0.8,0.6 1.3,0.9 1.8,1 3.6,0.9 3.6,0.9 l -0.2,0.4 c 0,0 -1.8,0.1 -3.6,-0.9 -0.7,-0.4 -1.3,-0.9 -1.7,-1.3 z"
+       fill="url(#xcode-original-I)"
+       id="path81"
+       style="fill:url(#xcode-original-I)" />
+    <path
+       d="m 38.9,83.3 0.2,-0.4 c 0,0 0.5,2 2.7,3.2 2,1.1 3.8,0.5 3.8,0.5 L 45.4,87 c 0,0 -1.6,0.7 -3.8,-0.5 -2.3,-1.3 -2.7,-3.2 -2.7,-3.2 z"
+       fill="url(#xcode-original-J)"
+       id="path83"
+       style="fill:url(#xcode-original-J)" />
+    <path
+       d="m 36.4,87.6 0.2,-0.4 c 0,0 0.2,2.1 2.6,3.4 2.2,1.2 3.9,0.3 3.9,0.3 l -0.3,0.4 c 0,0 -1.5,1.1 -3.9,-0.3 -2.5,-1.4 -2.5,-3.4 -2.5,-3.4 z"
+       fill="url(#xcode-original-K)"
+       id="path85"
+       style="fill:url(#xcode-original-K)" />
+    <path
+       d="m 68.8,114.2 42.8,-89.9 -10.8,-5.1 -44.6,93.5 c 0,0 1.4,0.7 3.2,1.5 z"
+       fill="url(#xcode-original-L)"
+       id="path87"
+       style="fill:url(#xcode-original-L)" />
+    <path
+       d="m 94.1,13.8 20,9.5 V 52 C 107.2,48.7 61,26.7 61,26.7 c 0,0 3.2,-6.7 6.2,-12.9 z"
+       fill="url(#xcode-original-M)"
+       id="path89"
+       style="fill:url(#xcode-original-M)" />
+    <path
+       d="m 44.5,110.2 c -0.3,0.6 -0.8,1.3 -0.7,2.4 0.1,4.1 6.8,7.9 10.7,7.9 2.7,0 3.6,-1.1 4.6,-3.1 1,-2 -13.5,-9.6 -14.6,-7.2 z"
+       fill="url(#xcode-original-N)"
+       id="path91"
+       style="fill:url(#xcode-original-N)" />
+    <path
+       d="m 90.6,25.1 c 0,0 10.3,2.5 11.1,3.2 0.8,0.7 -1.3,4.7 -1.7,5.3 -3.3,4 -13.6,26.1 -13.6,26.1 l -9.5,-5.4 c 0,0 8.5,-15.8 11.5,-21.4 1.9,-3.8 2.2,-7.8 2.2,-7.8 z"
+       fill="url(#xcode-original-O)"
+       id="path101"
+       style="fill:url(#xcode-original-O)" />
+    <path
+       d="m 114.4,19.9 c 1.8,1.3 4.2,1 6.1,0.7 1.3,-0.2 -0.7,1.7 -2.9,6.1 -2.2,4.4 -2.1,4.7 -2.4,4.4 -0.3,-0.3 -10.2,-5.9 -9.9,-6.4 0.4,-0.5 2,-11.4 2.8,-11.1 2.9,0.7 3.4,4.2 6.3,6.3 z"
+       fill="url(#xcode-original-P)"
+       id="path105"
+       style="fill:url(#xcode-original-P)" />
+    <path
+       d="m 99,32.2 c 0.7,-1.1 3.9,-7.9 9,-7.9 2.3,0 6.7,5.8 7.1,6.6 0.3,0.7 -0.7,3.5 -1.2,2.2 -0.6,-1.5 -3.1,-4.7 -5.8,-4.7 -2.7,0 -6.4,3.1 -7.3,4.2 -0.9,1 -2.5,0.7 -1.8,-0.4 z"
+       fill="url(#xcode-original-Q)"
+       id="path109"
+       style="fill:url(#xcode-original-Q)" />
+    <path
+       d="m 98.8,31.8 c 0.5,-0.8 2.8,-4.3 3.9,-5.4 1.1,-1.1 3.9,-4 6.3,-4.4 2.4,-0.4 4.9,4.5 4.1,5.5 -0.6,0.7 -1.6,-0.1 -2.8,-1.1 -1.2,-0.9 -2,-2.7 -5.8,0.2 -1.3,1 -2.6,1.8 -5.6,6.1 -0.8,1.1 -0.6,-0.1 -0.1,-0.9 z"
+       fill="url(#xcode-original-R)"
+       id="path113"
+       style="fill:url(#xcode-original-R)" />
+    <path
+       d="m 86.4,61 c 0.4,-0.8 0.9,-2 -0.2,-2.9 -1.2,-0.9 -6.8,-3.9 -7.8,-4.1 -1,-0.2 -1.8,0 -2.2,0.7 -0.4,0.7 -31.1,53.3 -31.7,54.8 -0.6,1.5 -0.7,2.6 0.2,2.9 0.9,0.3 11.2,5.2 12.2,6.3 1,1.1 1.5,-0.1 1.9,-0.7 1.9,-2.4 27.1,-56.2 27.6,-57 z"
+       fill="url(#xcode-original-S)"
+       id="path119"
+       style="fill:url(#xcode-original-S)" />
+    <path
+       d="m 99.5,31.6 c 0.5,-0.7 1.7,-2.7 3.2,-4.5 1,-1.2 6.4,-3.8 7.6,-8 0.7,-2.3 -0.4,-4.6 -1.9,-5.6 -5.1,-3.1 -13.9,-8 -26.8,-8 -8.7,0 -12.4,2.9 -12.4,2.9 h 4.4 l 15.3,6 1.9,8 c 0,0 0.2,2.7 -0.7,5.8 -0.6,2.5 -0.8,4 -1.7,6.5 0.7,0.3 2.3,-0.8 4.1,-0.3 1.6,0.4 2.6,2.6 3.7,1.3 1.9,-2.5 2.5,-3 3.3,-4.1 z"
+       fill="url(#xcode-original-T)"
+       id="path130"
+       style="fill:url(#xcode-original-T)" />
+    <path
+       d="M 90.5,25.4 C 89.7,18 87.9,11 69.1,11.1 70.3,9.9 73.2,8.7 73.2,8.7 L 69.1,8.4 c 0,0 0.6,-0.5 1.8,-0.6 11,-0.9 20.8,1.4 20.1,15.7 -0.1,2.3 -0.3,3.3 -0.5,1.9 z"
+       fill="url(#xcode-original-U)"
+       id="path132"
+       style="fill:url(#xcode-original-U)" />
+    <path
+       d="m 69.1,11.1 c 1.3,-0.5 3.1,-0.8 6.5,-0.6 4.2,0.2 9.5,1.8 11.7,3.8 1.1,1 1,0.2 -0.2,-1.1 C 84,9.6 79.3,8.8 73.2,8.7 c -0.7,-0.1 -3,1.2 -4.1,2.4 z"
+       fill="url(#xcode-original-V)"
+       id="path134"
+       style="fill:url(#xcode-original-V)" />
+    <path
+       d="m 120.7,20.6 5.5,2.8 c 0,0 -2.1,2.8 -3.8,6 -1.8,3.4 -3,7.1 -3,7.1 l -5.3,-3.2 c 0,0 1.3,-3.6 3.2,-7.1 1.5,-2.9 3.4,-5.6 3.4,-5.6 z"
+       fill="url(#xcode-original-W)"
+       id="path142"
+       style="fill:url(#xcode-original-W)" />
+    <path
+       d="m 126.2,23.4 c 0.4,0.2 -0.9,3.3 -2.8,6.9 -1.9,3.6 -3.7,6.4 -4,6.2 -0.4,-0.2 0.9,-3.3 2.8,-6.9 1.8,-3.6 3.6,-6.4 4,-6.2 z"
+       fill="#bfc0d0"
+       id="path143" />
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="51"
+   height="32"
+   viewBox="0 0 1.53 0.96"
+   role="img"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="markdown.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.96875"
+     inkscape:cx="398.96774"
+     inkscape:cy="396.90323"
+     inkscape:window-width="1392"
+     inkscape:window-height="950"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">Markdown icon</title>
+  <path
+     d="M 1.4197033,0.96000002 H 0.11029669 A 0.11029669,0.11244414 0 0 1 0,0.8475559 V 0.1124441 A 0.11029669,0.11244414 0 0 1 0.11029669,0 H 1.4197033 A 0.11029669,0.11244414 0 0 1 1.53,0.1124441 V 0.8474259 A 0.11029669,0.11244414 0 0 1 1.4197033,0.95993502 Z M 0.36774064,0.7349817 V 0.442497 L 0.5148879,0.6300122 0.66197141,0.442497 V 0.7349817 H 0.80911867 V 0.2250833 H 0.66197141 L 0.5148879,0.4125985 0.36774064,0.2250833 H 0.22059338 V 0.7351117 Z M 1.3535253,0.48 H 1.206378 V 0.2250183 H 1.0592945 V 0.48 H 0.91214725 L 1.1328044,0.7425213 Z"
+     id="path1"
+     style="stroke-width:0.0643729" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Markdown icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
